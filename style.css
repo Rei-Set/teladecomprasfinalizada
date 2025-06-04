@@ -1,0 +1,39 @@
+body {
+            margin-left: 2%;
+            background-color: #f0e5d6;
+        }
+        .fundoVermelho {
+            background-color: #f17237;
+            color: rgb(235, 219, 219); 
+            border-radius: 17px;
+        }
+        .fundoBranco {
+            background-color: #f17237(255, 255, 255);
+        }
+        .textoBranco {
+            color: white;
+        }
+        .posicaoCarrinho {
+            margin-top: 30px;
+            margin-left: 10px; 
+        }
+        .posicaoForm {
+            margin-top: 30px;
+            margin-left: 10px;
+        
+        }
+
+         .form-control,
+        .custom-select {
+            border-radius: 10px;
+        }
+
+        .input-group .form-control {
+            border-top-left-radius: 10px;
+            border-bottom-left-radius: 10px;
+        }
+
+        .input-group .input-group-append .btn {
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
